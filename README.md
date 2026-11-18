@@ -1,11 +1,11 @@
-# Resume — Hanna Zamsul
+# Hannaz Hamsul — Resume & Portfolio
 
-A responsive personal resume website.
+A responsive personal resume website. The experience, education, project, and contact details in `index.html` are starter content; replace them with your own accurate information before sharing the site.
 
 ## Preview locally
 
-Open `index.html` in your browser, or run `python3 -m http.server 8000`.
+Open `index.html` in a browser, or run `python3 -m http.server 8000` and visit `http://localhost:8000`.
 
-## Customize
+## Publish with GitHub Pages
 
-Update the placeholder content in `index.html`: experience, education, projects, email, and LinkedIn URL.
+In the repository, open **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/(root)`, then save. GitHub Pages will provide the published URL there.
